@@ -1,0 +1,299 @@
+{'position_name': 'Python', 'position_salary': '10k-11k', 'position_conpany': '软通动力', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '学海教育', 'position_place': '杭州 余杭区 西溪'}
+{'position_name': 'python', 'position_salary': '15k-25k', 'position_conpany': '小余小余教育', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '小余教育', 'position_place': '杭州  '}
+{'position_name': 'Python', 'position_salary': '12k-15k', 'position_conpany': '博彦科技', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python', 'position_salary': '8k-15k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'python讲师', 'position_salary': '18k-35k', 'position_conpany': '千锋互联科技', 'position_place': '杭州 江干区 '}
+{'position_name': 'Python讲师', 'position_salary': '11k-16k', 'position_conpany': '天眼', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python工程师', 'position_salary': '15k-18k', 'position_conpany': '全速网络', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python', 'position_salary': '15k-30k', 'position_conpany': '美登', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'Python讲师', 'position_salary': '8k-12k', 'position_conpany': '学天教育上海分校', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-13k', 'position_conpany': '中软国际', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python工程师', 'position_salary': '12k-18k', 'position_conpany': '软通动力', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Django/Python开发', 'position_salary': '8k-15k', 'position_conpany': '海康威视', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '16k-20k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '太阳伞科技', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python工程师', 'position_salary': '25k-50k', 'position_conpany': '麦歌算法', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'python自动化测试', 'position_salary': '10k-15k', 'position_conpany': '润和软件', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发师', 'position_salary': '15k-25k', 'position_conpany': '小余教育', 'position_place': '杭州  '}
+{'position_name': 'python开发工程师', 'position_salary': '10k-15k', 'position_conpany': '软通动力有限公司', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '小余小余教育', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': 'Python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '微点', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python开发', 'position_salary': '12k-18k', 'position_conpany': '软通动力', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python工程师', 'position_salary': '10k-17k', 'position_conpany': '纳帕科技', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '软通动力', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python自动化测试', 'position_salary': '9k-14k', 'position_conpany': '软通动力', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python开发工程师', 'position_salary': '12k-18k', 'position_conpany': '中软国际', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python工程师', 'position_salary': '10k-15k', 'position_conpany': '巧鹿', 'position_place': '杭州 江干区 火车东站'}
+{'position_name': 'Python开发', 'position_salary': '15k-30k', 'position_conpany': '蚂蚁金服', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'python开发工程师', 'position_salary': '10k-15k', 'position_conpany': '新康众集团', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'C++  python  基站开发', 'position_salary': '14k-24k', 'position_conpany': 'NOKIA', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python爬虫工程师', 'position_salary': '9k-14k', 'position_conpany': '顾睿企业管理', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': '高级python工程师', 'position_salary': '15k-30k', 'position_conpany': '天壤智能', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python教研', 'position_salary': '8k-13k', 'position_conpany': '杭州艺程科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师（运维开发）', 'position_salary': '10k-15k', 'position_conpany': '二六三', 'position_place': '杭州 西湖区 文一路'}
+{'position_name': 'Python线上讲师', 'position_salary': '6k-10k', 'position_conpany': '傲梦网络科技', 'position_place': '杭州 上城区 湖滨'}
+{'position_name': 'Python开发工程师', 'position_salary': '13k-19k', 'position_conpany': '软通动力', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '架构师（python）', 'position_salary': '25k-40k', 'position_conpany': '英尼网络', 'position_place': '杭州 江干区 '}
+{'position_name': 'Python软件工程师', 'position_salary': '8k-16k', 'position_conpany': '汇数智通', 'position_place': '杭州 江干区 白杨'}
+{'position_name': 'python开发运维', 'position_salary': '12k-20k', 'position_conpany': '武汉佰钧成', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python开发', 'position_salary': '10k-20k', 'position_conpany': '古语科技', 'position_place': '杭州 西湖区 三墩'}
+{'position_name': '高级python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '恒生云融', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python研发工程师', 'position_salary': '13k-25k', 'position_conpany': '天壤智能', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python讲师', 'position_salary': '5k-10k', 'position_conpany': '酷创', 'position_place': '杭州 拱墅区 湖墅南路'}
+{'position_name': 'Python开发工程师', 'position_salary': '6k-9k', 'position_conpany': '联图科技', 'position_place': '杭州  '}
+{'position_name': 'python课程研发', 'position_salary': '7k-14k', 'position_conpany': '杭州艺程科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '编程老师（scratch/python/c++）', 'position_salary': '6k-8k', 'position_conpany': '智慧喵科学活动中心', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '5G 移动通信 测试工程师/python', 'position_salary': '12k-24k', 'position_conpany': 'NOKIA', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python编程讲师', 'position_salary': '8k-15k', 'position_conpany': '驿码科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '医拍智能', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'Python web研发工程师', 'position_salary': '7k-14k', 'position_conpany': '知了窝', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '技术总监/CTO(python/java)', 'position_salary': '35k-50k', 'position_conpany': '英尼网络', 'position_place': '杭州 江干区 '}
+{'position_name': '云平台交付技术支持（python)', 'position_salary': '10k-14k', 'position_conpany': '华云中盛', 'position_place': '杭州 西湖区 '}
+{'position_name': '高级python工程师', 'position_salary': '16k-30k', 'position_conpany': '英尼网络', 'position_place': '杭州 江干区 '}
+{'position_name': 'Python工程师', 'position_salary': '15k-25k', 'position_conpany': '武汉佰钧成', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师（实习）', 'position_salary': '3k-4k', 'position_conpany': '艾锝信息', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发测试工程师', 'position_salary': '12k-15k', 'position_conpany': '博彦科技', 'position_place': '杭州 西湖区 '}
+{'position_name': '开发工程师（python/java）', 'position_salary': '6k-7k', 'position_conpany': '海康威视', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发工程师', 'position_salary': '18k-35k', 'position_conpany': '支付宝', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '引擎(中级) linuxC/Python', 'position_salary': '10k-20k', 'position_conpany': '安恒信息', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': '教学老师（Python和Scratch）', 'position_salary': '10k-15k', 'position_conpany': '智一信息', 'position_place': '杭州 西湖区 文新'}
+{'position_name': 'Python软件工程师 （爬虫开发）', 'position_salary': '15k-25k', 'position_conpany': '浙江云鉴数据科技', 'position_place': '杭州 萧山区 建设二路'}
+{'position_name': '高级Python工程师', 'position_salary': '15k-30k', 'position_conpany': '博博科技', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python课程设计', 'position_salary': '7k-14k', 'position_conpany': '杭州艺程科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python  开发', 'position_salary': '8k-15k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'python工程师', 'position_salary': '8k-12k', 'position_conpany': '拓叭吧科技有限公司', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-16k', 'position_conpany': '中电海康', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': 'Python开发', 'position_salary': '13k-21k', 'position_conpany': '铕人网络', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python工程师', 'position_salary': '15k-20k', 'position_conpany': '浙江天诺', 'position_place': '杭州 拱墅区 '}
+{'position_name': '高级引擎工程师（linuxC/Python）', 'position_salary': '15k-25k', 'position_conpany': '安恒信息', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '凡闻科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '高级Python开发工程师', 'position_salary': '16k-20k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python web', 'position_salary': '18k-30k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python教学讲师', 'position_salary': '8k-12k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'python开发（机器学习方向）', 'position_salary': '10k-20k', 'position_conpany': '国誉信睿', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python高级开发工程师', 'position_salary': '20k-40k', 'position_conpany': '京东金融', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python开发测试工程师', 'position_salary': '8k-15k', 'position_conpany': '微链', 'position_place': '杭州  '}
+{'position_name': 'Python开发工程师', 'position_salary': '15k-30k', 'position_conpany': '网易游戏', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '少儿编程培训师（Scratch，Python，C++）', 'position_salary': '5k-10k', 'position_conpany': '幻码教育', 'position_place': '杭州 拱墅区 小河'}
+{'position_name': 'Python量化工程师', 'position_salary': '8k-15k', 'position_conpany': '飞秒科技', 'position_place': '杭州 下城区 朝晖'}
+{'position_name': 'Python培训讲师', 'position_salary': '8k-12k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'python开发工程师', 'position_salary': '15k-30k', 'position_conpany': '飞享数据', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'python开发', 'position_salary': '25k-40k', 'position_conpany': '蚂蚁金服', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': 'Java,Python,C/C++(代码扫描引擎开发)', 'position_salary': '20k-35k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '高级python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '恒生云融', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python开发工程师', 'position_salary': '8k-10k', 'position_conpany': '中焯信息', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': 'python开发工程师', 'position_salary': '20k-40k', 'position_conpany': '蚂蚁金服', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python全栈开发工程师', 'position_salary': '8k-16k', 'position_conpany': '海康威视', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python', 'position_salary': '15k-30k', 'position_conpany': '天壤智能', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-20k', 'position_conpany': '嘉云数据', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'python课程研发', 'position_salary': '8k-12k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': '高级Python研发工程师', 'position_salary': '12k-24k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '杭州融池', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': 'Java/Python后端开发实习生', 'position_salary': '3k-4k', 'position_conpany': '美国道富', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': 'Python开发高级工程师', 'position_salary': '8k-15k', 'position_conpany': '传麒科技', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python工程师', 'position_salary': '8k-14k', 'position_conpany': 'Raymax', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '高级Python工程师', 'position_salary': '15k-30k', 'position_conpany': '博博科技', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '网易杭州', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '新华三技术有限公司', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python课程研发', 'position_salary': '8k-12k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'python 后端工程师', 'position_salary': '14k-22k', 'position_conpany': '杭州智链达', 'position_place': '杭州 富阳区 '}
+{'position_name': 'Java/python开发', 'position_salary': '18k-28k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python工程师', 'position_salary': '8k-12k', 'position_conpany': '诺诺网', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python研发工程师', 'position_salary': '8k-12k', 'position_conpany': '卫数科技', 'position_place': '杭州 萧山区 宁围'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '去壳科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '20k-30k', 'position_conpany': '橙鹰', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-16k', 'position_conpany': '杭州惠酷智科技', 'position_place': '杭州 滨江区 浦沿'}
+{'position_name': '区块链技术开发工程师（go,c++,python）', 'position_salary': '20k-40k', 'position_conpany': '复杂美科技', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'Python', 'position_salary': '10k-15k', 'position_conpany': '中焯信息', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': 'Python讲师', 'position_salary': '10k-15k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'Python', 'position_salary': '18k-36k', 'position_conpany': '安恒信息', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python 开发工程师（数据方向)', 'position_salary': '15k-30k', 'position_conpany': '嘉云数据', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': '图像识别算法工程师（python方向）', 'position_salary': '15k-30k', 'position_conpany': '国誉信睿', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发工程师实习生', 'position_salary': '3k-5k', 'position_conpany': '艾达智能科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python开发工程师', 'position_salary': '8k-15k', 'position_conpany': '三里文化', 'position_place': '杭州  '}
+{'position_name': 'python工程师', 'position_salary': '13k-25k', 'position_conpany': '浙江力太科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python课程研发', 'position_salary': '10k-20k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': 'Python工程师', 'position_salary': '10k-15k', 'position_conpany': '一聪', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师', 'position_salary': '7k-14k', 'position_conpany': '集控科技', 'position_place': '杭州 余杭区 南苑'}
+{'position_name': 'Python', 'position_salary': '12k-18k', 'position_conpany': '可里可里', 'position_place': '杭州 滨江区 浦沿'}
+{'position_name': 'python服务端开发（后台）', 'position_salary': '15k-25k', 'position_conpany': '薪火网络', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '安恒信息', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python后端开发（机器学习方向）', 'position_salary': '20k-40k', 'position_conpany': '亿教亿学', 'position_place': '杭州 拱墅区 三墩'}
+{'position_name': 'python', 'position_salary': '8k-13k', 'position_conpany': '杭州奕锐电子', 'position_place': '杭州 萧山区 宁围'}
+{'position_name': 'Python数据工程师', 'position_salary': '9k-18k', 'position_conpany': '杭州追灿科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-20k', 'position_conpany': '恒生云融', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python', 'position_salary': '10k-15k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '爬虫/python工程师', 'position_salary': '10k-20k', 'position_conpany': 'e修鸽', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '高级Python研发工程师', 'position_salary': '16k-20k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '软通动力', 'position_place': '杭州 西湖区 '}
+{'position_name': 'Python', 'position_salary': '7k-12k', 'position_conpany': '银信科技', 'position_place': '杭州 拱墅区 文一路'}
+{'position_name': '高级python', 'position_salary': '18k-28k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-15k', 'position_conpany': '浙江执御', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python', 'position_salary': '12k-24k', 'position_conpany': '华为', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python开发工程师', 'position_salary': '8k-10k', 'position_conpany': '浙江快工网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python爬虫', 'position_salary': '10k-20k', 'position_conpany': 'Eigen', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '量知数据', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'Python爬虫工程师(中级)', 'position_salary': '15k-20k', 'position_conpany': '浙江云鉴数据科技', 'position_place': '杭州 萧山区 建设二路'}
+{'position_name': 'python工程师', 'position_salary': '10k-20k', 'position_conpany': '哲信信息', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'python数据爬虫工程师', 'position_salary': '10k-20k', 'position_conpany': '币尔大数据', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '彩集网络', 'position_place': '杭州 余杭区 临平'}
+{'position_name': 'Python', 'position_salary': '15k-30k', 'position_conpany': '有赞', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': '网络python 工程师', 'position_salary': '10k-17k', 'position_conpany': '阿里巴巴集团', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python高级开发工程师', 'position_salary': '13k-25k', 'position_conpany': '杭州深地', 'position_place': '杭州 萧山区 宁围'}
+{'position_name': 'Python', 'position_salary': '8k-12k', 'position_conpany': '睿数科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师', 'position_salary': '15k-20k', 'position_conpany': '筑龙信息', 'position_place': '杭州 滨江区 浦沿'}
+{'position_name': 'python课程研发', 'position_salary': '20k-30k', 'position_conpany': '小码教育', 'position_place': '杭州 拱墅区 古墩路'}
+{'position_name': '高级讲师（Python、C++）', 'position_salary': '10k-15k', 'position_conpany': '童乐码', 'position_place': '杭州 上城区 近江'}
+{'position_name': 'Python开发工程师', 'position_salary': '8k-12k', 'position_conpany': '智君科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发工程师', 'position_salary': '13k-20k', 'position_conpany': '诺诺网', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '中级python', 'position_salary': '10k-15k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python工程师', 'position_salary': '13k-25k', 'position_conpany': '浙江力太科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '8k-12k', 'position_conpany': '中焯信息', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': 'Python 后端开发工程师', 'position_salary': '14k-28k', 'position_conpany': '巴九灵', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'Python', 'position_salary': '8k-16k', 'position_conpany': '海康威视', 'position_place': '杭州  '}
+{'position_name': 'Python服务端开发', 'position_salary': '15k-16k', 'position_conpany': '网易游戏', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python工程师', 'position_salary': '12k-20k', 'position_conpany': '宇博信诚', 'position_place': '杭州 滨江区 江南'}
+{'position_name': '高级 Python 开发工程师', 'position_salary': '8k-15k', 'position_conpany': '网易', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '高级Python开发', 'position_salary': '12k-24k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '高级python开发', 'position_salary': '12k-20k', 'position_conpany': '杭州美又多商务咨询', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python开发工程师', 'position_salary': '8k-16k', 'position_conpany': '众望科技', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python web全栈开发', 'position_salary': '8k-16k', 'position_conpany': '海康威视', 'position_place': '杭州  '}
+{'position_name': '后台主程序员（Python）', 'position_salary': '9k-13k', 'position_conpany': '美戴科技', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': '高级Python全栈工程师', 'position_salary': '9k-18k', 'position_conpany': '杭州追灿科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'python开发', 'position_salary': '15k-25k', 'position_conpany': '速农网络', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'Python爬虫工程师', 'position_salary': '10k-20k', 'position_conpany': '冰狗', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python/C语言研发实习生', 'position_salary': '4k-5k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '10k-16k', 'position_conpany': '祐全', 'position_place': '杭州  '}
+{'position_name': '高级Python开发工程师', 'position_salary': '15k-22k', 'position_conpany': '网易', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Linux python开发运维', 'position_salary': '10k-20k', 'position_conpany': '杭州联众', 'position_place': '杭州 上城区 庆春路'}
+{'position_name': 'Python', 'position_salary': '10k-16k', 'position_conpany': '杭州同太科技有限公司', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python架构师', 'position_salary': '20k-30k', 'position_conpany': '数为科技', 'position_place': '杭州 江干区 白杨'}
+{'position_name': 'python开发工程师', 'position_salary': '10k-20k', 'position_conpany': '天玑科技', 'position_place': '杭州 西湖区 三墩'}
+{'position_name': '资深Python工程师', 'position_salary': '15k-25k', 'position_conpany': '书山府科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'C#，python开发', 'position_salary': '10k-15k', 'position_conpany': '顶盾基金', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python研发工程师', 'position_salary': '8k-15k', 'position_conpany': '沃趣科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '后端Python开发工程师', 'position_salary': '15k-25k', 'position_conpany': '壹向 ', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '12k-18k', 'position_conpany': '瑞石科技', 'position_place': '杭州  '}
+{'position_name': '高级python爬虫工程师', 'position_salary': '18k-25k', 'position_conpany': '贝数科技', 'position_place': '杭州 余杭区 西溪'}
+{'position_name': '高级Python', 'position_salary': '20k-30k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '中级Python', 'position_salary': '15k-20k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python软件工程师 （后端开发）', 'position_salary': '15k-25k', 'position_conpany': '浙江云鉴数据科技', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': 'python web开发工程师', 'position_salary': '12k-20k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '阿里云-Java/Python/Go工程师-云数据库', 'position_salary': '35k-60k', 'position_conpany': '阿里云', 'position_place': '杭州 西湖区 '}
+{'position_name': '软件开发工程师(Python/Golang)', 'position_salary': '10k-20k', 'position_conpany': '米阳供应链', 'position_place': '杭州 拱墅区 '}
+{'position_name': 'Python爬虫', 'position_salary': '12k-18k', 'position_conpany': '可里可里', 'position_place': '杭州 滨江区 浦沿'}
+{'position_name': 'python', 'position_salary': '9k-15k', 'position_conpany': '康姆达', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python/爬虫工程师', 'position_salary': '8k-15k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python算法工程师', 'position_salary': '10k-20k', 'position_conpany': '杭州追灿科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python实习工程师', 'position_salary': '3k-6k', 'position_conpany': '数立方', 'position_place': '杭州  '}
+{'position_name': 'Python', 'position_salary': '15k-20k', 'position_conpany': '币猫', 'position_place': '杭州 萧山区 宁围'}
+{'position_name': 'Python工程师', 'position_salary': '10k-15k', 'position_conpany': '书山府科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python工程师', 'position_salary': '12k-20k', 'position_conpany': '放牛科技', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发师', 'position_salary': '15k-25k', 'position_conpany': '小余教育', 'position_place': '杭州  '}
+{'position_name': 'Java/python开发', 'position_salary': '18k-28k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python（在校实习生）', 'position_salary': '5k-6k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python后端开发工程师', 'position_salary': '15k-25k', 'position_conpany': 'Eigen', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python开发', 'position_salary': '18k-30k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '10k-15k', 'position_conpany': '萤石网络', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python爬虫', 'position_salary': '25k-50k', 'position_conpany': '麦歌算法', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'python工程师', 'position_salary': '6k-7k', 'position_conpany': '格朗瑞生物', 'position_place': '杭州  '}
+{'position_name': 'Python web开发工程师', 'position_salary': '10k-20k', 'position_conpany': '杭州深地', 'position_place': '杭州 萧山区 宁围'}
+{'position_name': 'Python数据分析师', 'position_salary': '8k-16k', 'position_conpany': '杭州追灿科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'python（代码扫描引擎工程师）', 'position_salary': '15k-30k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python图像处理开发工程师', 'position_salary': '13k-25k', 'position_conpany': '时间线科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python程序员', 'position_salary': '6k-8k', 'position_conpany': '杭州鑫途贸易', 'position_place': '杭州 拱墅区 小河'}
+{'position_name': 'Python', 'position_salary': '10k-18k', 'position_conpany': '火石创造', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'Python', 'position_salary': '20k-40k', 'position_conpany': '华为', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '10k-15k', 'position_conpany': '杭州现象级', 'position_place': '杭州 江干区 四季青'}
+{'position_name': 'Python软件工程师', 'position_salary': '10k-20k', 'position_conpany': '新方向网络', 'position_place': '杭州 滨江区 浦沿'}
+{'position_name': 'Python后台工程师', 'position_salary': '20k-35k', 'position_conpany': '万塔科技', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python开发工程师', 'position_salary': '10k-20k', 'position_conpany': '艾锝信息', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python开发', 'position_salary': '8k-12k', 'position_conpany': '通明传媒', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python爬虫工程师', 'position_salary': '8k-15k', 'position_conpany': '爱琴嗨购', 'position_place': '杭州 拱墅区 拱宸桥'}
+{'position_name': 'Python研发工程师', 'position_salary': '20k-40k', 'position_conpany': '哲信信息', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'Python软件工程师', 'position_salary': '6k-12k', 'position_conpany': '币事科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Java/Python前端开发工程师', 'position_salary': '12k-15k', 'position_conpany': '美国道富', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': '教材研发-Python', 'position_salary': '7k-14k', 'position_conpany': '码猿', 'position_place': '杭州 上城区 庆春路'}
+{'position_name': 'Python工程师', 'position_salary': '20k-30k', 'position_conpany': '昇星科技', 'position_place': '杭州 上城区 望江'}
+{'position_name': 'Python数字货币量化交易程序员', 'position_salary': '10k-20k', 'position_conpany': '奇迹跃动区块链', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': 'python开发工程师', 'position_salary': '8k-15k', 'position_conpany': '祐全', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '14k-28k', 'position_conpany': '汇玩信息科技', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '15k-25k', 'position_conpany': '小余小余教育', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': 'python开发工程师', 'position_salary': '12k-15k', 'position_conpany': '果冻', 'position_place': '杭州 下城区 米市巷'}
+{'position_name': 'Python研发工程师-数据方向', 'position_salary': '25k-45k', 'position_conpany': '橙鹰', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python开发', 'position_salary': '15k-25k', 'position_conpany': '浙江胄天科技', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '数为科技', 'position_place': '杭州 江干区 白杨'}
+{'position_name': 'Python', 'position_salary': '18k-25k', 'position_conpany': '有桐科技', 'position_place': '杭州 上城区 近江'}
+{'position_name': 'python后端开发工程师', 'position_salary': '10k-15k', 'position_conpany': 'Eigen', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python开发工程师（WEB方向）', 'position_salary': '15k-20k', 'position_conpany': '嘉云数据', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': 'Python', 'position_salary': '5k-10k', 'position_conpany': '势成科技', 'position_place': '杭州 滨江区 江南'}
+{'position_name': 'Python工程师', 'position_salary': '10k-15k', 'position_conpany': '楚宇科技', 'position_place': '杭州 江干区 下沙'}
+{'position_name': 'python开发（高级）', 'position_salary': '15k-30k', 'position_conpany': '速农网络', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'Python开发工程师', 'position_salary': '8k-16k', 'position_conpany': '彬驰软件', 'position_place': '杭州 拱墅区 金家渡'}
+{'position_name': 'Python', 'position_salary': '8k-12k', 'position_conpany': '巴九灵', 'position_place': '杭州 下城区 三塘'}
+{'position_name': 'Python 后端工程师', 'position_salary': '12k-16k', 'position_conpany': 'nomoface', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': 'Python', 'position_salary': '15k-30k', 'position_conpany': '义乌富源', 'position_place': '杭州 上城区 庆春路'}
+{'position_name': '后端Python开发工程师', 'position_salary': '12k-20k', 'position_conpany': '略懂科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python研发实习生', 'position_salary': '4k-5k', 'position_conpany': '杭州默安科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '10k-20k', 'position_conpany': '数立方', 'position_place': '杭州 余杭区 临平'}
+{'position_name': 'PYTHON开发', 'position_salary': '10k-15k', 'position_conpany': '杭州康策网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'python', 'position_salary': '8k-15k', 'position_conpany': '敏行', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Python', 'position_salary': '15k-30k', 'position_conpany': '阿里巴巴集团', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': 'Python开发工程师', 'position_salary': '4k-8k', 'position_conpany': '猿助猿', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'python开发工程师', 'position_salary': '15k-30k', 'position_conpany': '支付宝', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': '高级 python web 开发', 'position_salary': '14k-28k', 'position_conpany': '巴九灵', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'Python程序师', 'position_salary': '3k-6k', 'position_conpany': '派对家数字科技', 'position_place': '杭州  '}
+{'position_name': 'Python开发', 'position_salary': '9k-18k', 'position_conpany': '牛盾网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Python', 'position_salary': '5k-10k', 'position_conpany': '海适云承', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': 'Java/Python', 'position_salary': '18k-36k', 'position_conpany': 'DAHO', 'position_place': '杭州 余杭区 '}
+{'position_name': 'Python开发', 'position_salary': '12k-15k', 'position_conpany': '上海伯俊', 'position_place': '杭州 江干区 '}
+{'position_name': '测试开发工程师', 'position_salary': '8k-16k', 'position_conpany': '海康威视', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '大数据培训讲师', 'position_salary': '6k-10k', 'position_conpany': '南京牧信科技有限...', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '测试工程师', 'position_salary': '10k-16k', 'position_conpany': '博彦科技', 'position_place': '杭州  '}
+{'position_name': '生信工程师', 'position_salary': '8k-11k', 'position_conpany': '迪安诊断', 'position_place': '杭州 西湖区 三墩'}
+{'position_name': '测试开发', 'position_salary': '9k-14k', 'position_conpany': '赤骥', 'position_place': '杭州 西湖区 黄龙'}
+{'position_name': 'Javascript', 'position_salary': '8k-10k', 'position_conpany': '华银教育', 'position_place': '杭州 江干区 白杨'}
+{'position_name': '实习生', 'position_salary': '10k-20k', 'position_conpany': '阿里巴巴集团', 'position_place': '杭州 余杭区 '}
+{'position_name': '技术专家', 'position_salary': '25k-50k', 'position_conpany': '蚂蚁金服', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '核心网工程师', 'position_salary': '15k-20k', 'position_conpany': '中国移动浙江公司', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': '高级测试开发', 'position_salary': '13k-16k', 'position_conpany': '软通动力', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '全栈开发工程师（前后端 小程序开放方向）', 'position_salary': '14k-20k', 'position_conpany': '杭州耕香生物科技', 'position_place': '杭州 拱墅区 拱宸桥'}
+{'position_name': 'SRE', 'position_salary': '15k-25k', 'position_conpany': '蚂蚁金服', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '自动化测试', 'position_salary': '11k-20k', 'position_conpany': '杭州海康威视', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': '图像算法实习生', 'position_salary': '5k-10k', 'position_conpany': '阿里巴巴集团', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '全栈开发（DApp、小程序开发，后端 + 前端）', 'position_salary': '14k-20k', 'position_conpany': '耕香跨境', 'position_place': '杭州 拱墅区 大关'}
+{'position_name': '技术合伙人', 'position_salary': '40k-80k', 'position_conpany': '新舰科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '运维开发工程师', 'position_salary': '18k-30k', 'position_conpany': '有赞', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'Android App测试', 'position_salary': '8k-14k', 'position_conpany': '索孚威尔', 'position_place': '杭州 西湖区 西溪'}
+{'position_name': '无人机开发工程师', 'position_salary': '10k-15k', 'position_conpany': '杭州青耕科技有限公司', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': '测试', 'position_salary': '9k-12k', 'position_conpany': '武汉佰钧成', 'position_place': '杭州 西湖区 '}
+{'position_name': '云存储软件开发工程师', 'position_salary': '14k-28k', 'position_conpany': '新华三技术有限公司', 'position_place': '杭州 滨江区 长河'}
+{'position_name': '软件测试', 'position_salary': '10k-15k', 'position_conpany': '博彦科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '需求分析实习生', 'position_salary': '3k-4k', 'position_conpany': '美国道富', 'position_place': '杭州 西湖区 翠苑'}
+{'position_name': 'PHP程序员', 'position_salary': '15k-30k', 'position_conpany': '富通天下', 'position_place': '杭州 拱墅区 三墩'}
+{'position_name': '运维开发工程师', 'position_salary': '11k-22k', 'position_conpany': '软通动力', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': 'Pipeline TD', 'position_salary': '10k-15k', 'position_conpany': 'timeaxis', 'position_place': '杭州 西湖区 '}
+{'position_name': 'web后端开发', 'position_salary': '15k-20k', 'position_conpany': '网易', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'Linux软件开发工程师', 'position_salary': '12k-24k', 'position_conpany': 'ULSee', 'position_place': '杭州 江干区 四季青'}
+{'position_name': '机器学习专家', 'position_salary': '30k-35k', 'position_conpany': '脉景', 'position_place': '杭州 余杭区 '}
+{'position_name': 'Hadoop', 'position_salary': '15k-28k', 'position_conpany': '达摩网络', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': '全栈开发工程师', 'position_salary': '25k-45k', 'position_conpany': '九章算法', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '嵌入式开发工程师', 'position_salary': '10k-15k', 'position_conpany': '菲提亚', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '少儿编程创客教育', 'position_salary': '6k-10k', 'position_conpany': '玩物星球', 'position_place': '杭州 西湖区 古墩路'}
+{'position_name': '资深Python工程师', 'position_salary': '12k-17k', 'position_conpany': '书山府科技', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '游戏技术运维工程师', 'position_salary': '18k-30k', 'position_conpany': '网易游戏', 'position_place': '杭州 滨江区 长河'}
+{'position_name': 'go语言开发工程师', 'position_salary': '20k-40k', 'position_conpany': '慧川智能', 'position_place': '杭州 西湖区 文二路'}
+{'position_name': '搜索工程师', 'position_salary': '10k-20k', 'position_conpany': '诺诺网', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': '运维开发专家', 'position_salary': '20k-40k', 'position_conpany': '有赞', 'position_place': '杭州 西湖区 文三路'}
+{'position_name': 'php开发工程师', 'position_salary': '12k-22k', 'position_conpany': '博彦科技', 'position_place': '杭州 西湖区 '}
+{'position_name': '算法实施工程师', 'position_salary': '15k-30k', 'position_conpany': '杭州比智科技有限公司', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '运维工程师', 'position_salary': '13k-15k', 'position_conpany': '中国移动浙江公司', 'position_place': '杭州 滨江区 西兴'}
+{'position_name': '云计算技术支持二线', 'position_salary': '8k-15k', 'position_conpany': '朗新科技', 'position_place': '杭州 西湖区 '}
+{'position_name': '算法研究员', 'position_salary': '30k-50k', 'position_conpany': '点我达', 'position_place': '杭州 下城区 三塘'}
+{'position_name': '测试工程师', 'position_salary': '15k-25k', 'position_conpany': '龙席网络', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '4GLTE 测试工程师/专家', 'position_salary': '13k-23k', 'position_conpany': 'NOKIA', 'position_place': '杭州 滨江区 江南'}
+{'position_name': '资深Python开发工程师（WEB方向）', 'position_salary': '20k-35k', 'position_conpany': '嘉云数据', 'position_place': '杭州 西湖区 古荡'}
+{'position_name': 'DBA', 'position_salary': '13k-18k', 'position_conpany': '软通动力', 'position_place': '杭州 余杭区 仓前'}
+{'position_name': '量化分析实习生', 'position_salary': '3k-4k', 'position_conpany': '美国道富', 'position_place': '杭州 西湖区 翠苑'}
